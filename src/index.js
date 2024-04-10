@@ -68,4 +68,4 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Populate the film list on page load
   populateFilmList();
-});
+})
